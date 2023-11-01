@@ -1,4 +1,7 @@
+import sys
+sys.path.append("D:/Facultad/Programacion/TP y Ejercicios en Clase/Funciones")
 import funciones
+
 
 digits_total_add = 0
 numbers_total_add = 0

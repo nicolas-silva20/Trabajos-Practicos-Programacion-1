@@ -1,5 +1,8 @@
-import random
+import sys
+sys.path.append("D:/Facultad/Programacion/TP y Ejercicios en Clase/Funciones")
 import funciones
+
+import random
 
 
 word = funciones.choosen_word()
